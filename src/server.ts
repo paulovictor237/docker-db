@@ -8,6 +8,11 @@
 // 3. npx prisma studio
 // 4. npm run dev
 
+// sudo apt install gh
+// source ~/.zshrc
+// gh auth login
+// gh repo create
+
 import { fastify } from "fastify";
 import { PrismaClient } from "@prisma/client";
 import z from "zod";

@@ -4,6 +4,11 @@
     "colName": "DB",
     "created": "2023-03-30T22:29:26.610Z",
     "sortNum": 10000,
-    "folders": []
+    "folders": [],
+    "settings": {
+      "headers": [],
+      "tests": [],
+      "envId": "77f17176-f7df-4f57-b7b7-216e0baf0c5e"
+    }
   }
 ]

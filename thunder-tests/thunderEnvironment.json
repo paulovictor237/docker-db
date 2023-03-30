@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "_id": "90376df3-1879-4b44-93f5-9d4e8250c682",
+    "name": "cloud",
+    "default": true,
+    "sortNum": 10000,
+    "created": "2023-03-30T22:59:28.426Z",
+    "modified": "2023-03-30T22:59:28.426Z",
+    "data": [
+      {
+        "name": "url",
+        "value": "https://nodeapi-deploy.onrender.com"
+      }
+    ]
+  },
+  {
+    "_id": "03fdd968-eb33-4537-a602-8ec82d284a7d",
+    "name": "(Local Env)",
+    "default": false,
+    "global": true,
+    "local": true,
+    "sortNum": -1,
+    "created": "2023-03-30T22:59:40.769Z",
+    "modified": "2023-03-30T22:59:40.769Z",
+    "data": []
+  },
+  {
+    "_id": "77f17176-f7df-4f57-b7b7-216e0baf0c5e",
+    "name": "local",
+    "default": false,
+    "sortNum": 20000,
+    "created": "2023-03-30T23:01:50.914Z",
+    "modified": "2023-03-30T23:01:50.914Z",
+    "data": [
+      {
+        "name": "url",
+        "value": "http://localhost:3333"
+      }
+    ]
+  }
+]
